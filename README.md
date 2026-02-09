@@ -80,21 +80,9 @@ Welcome to my GitHub profile! Here I showcase my data projects, dashboards, and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
 </a>
 
-
 </p>
 
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahaaje&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahaaje&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -112,7 +100,7 @@ Welcome to my GitHub profile! Here I showcase my data projects, dashboards, and 
 
 - Advanced Data Engineering Patterns
 - dbt & Modern Data Stack
-- LLM + Data Applications
+- PySpark, Azure
 
 ---
 
