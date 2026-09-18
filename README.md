@@ -1,109 +1,72 @@
+<h1 align="center">Raja Wahaj</h1>
+<p align="center"><strong>AI Automation Engineer · Data Engineering &amp; Analytics</strong></p>
+<p align="center">Connecting AI, APIs and business data to practical workflows.</p>
 <p align="center">
-  <img src="cover.jpg" />
-</p>
-
-# Hi there! I'm Raja Wahaj 👋
-
-💡 **Data Analyst | Data Engineer | Power BI | Python | SQL | Snowflake | Generative AI**
-
-Welcome to my GitHub profile! Here I showcase my data projects, dashboards, and analytics work.
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/raja-wahaj" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:rajawahaj.work@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.bitnodesolutions.com">bitNode Solutions</a> ·
+  <a href="mailto:rajawahaj.work@gmail.com">Contact me</a> ·
+  <a href="https://github.com/wahaaje?tab=repositories">Explore my work</a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+## About me
 
-<p align="left">
+I'm an AI Automation Engineer and the founder of **bitNode Solutions**, based in Gilgit, Pakistan. My work focuses on connecting business tools, automating repetitive processes and integrating AI into useful workflows.
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-</a>
+I previously worked in **data engineering and data analytics**. That background shapes how I approach automation: understand the process, validate the data, connect the systems and make the result understandable to the people using it.
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-</a>
+My repositories span workflow automation, API integration, data pipelines and analytics. Earlier data projects document the foundation behind my current engineering focus.
 
-<a href="https://numpy.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
-</a>
+## Areas of focus
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</a>
+| Area | What I focus on |
+| --- | --- |
+| AI integration | Connecting model APIs to business workflows and structured data |
+| Workflow automation | Scheduled tasks, approvals and integrations between business tools |
+| Data engineering | Collecting, cleaning, transforming and storing data for downstream use |
+| Analytics | SQL analysis and reporting that help explain business performance |
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=postgres" height="50"/>
-</a>
+## Featured automation project
 
-<a href="https://www.snowflake.com/" target="_blank">
-<img src="https://seeklogo.com/images/S/snowflake-logo-024F2E3E8F-seeklogo.com.png" height="50"/>
-</a>
+### [Meta Social Publisher Automation](https://github.com/wahaaje/meta-social-publisher-automation)
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-</a>
+An approval-based publishing workflow for Facebook and Instagram, using Google Sheets for the content queue and Google Drive for media storage.
 
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
+- Supports single images, carousels and Reels.
+- Validates approved rows before they become eligible for publishing.
+- Runs scheduled checks through Google Apps Script.
+- Tracks Facebook and Instagram publishing states independently.
+- Includes duplicate-resistant safeguards, recovery handling and automated tests.
 
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-</a>
+**Built with:** Google Apps Script · JavaScript · Google Sheets · Google Drive · Meta Graph API
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
-</a>
+[Explore the repository](https://github.com/wahaaje/meta-social-publisher-automation) · [Read the setup guide](https://github.com/wahaaje/meta-social-publisher-automation/blob/main/docs/setup-guide.md) · [View the case study](https://github.com/wahaaje/meta-social-publisher-automation/blob/main/docs/case-study-countryside-resort.md)
 
-<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="50"/>
-</a>
+## Technical toolkit
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50"/>
-</a>
+| Category | Technologies |
+| --- | --- |
+| Automation and integration | n8n, Google Apps Script, REST APIs, webhooks |
+| AI | OpenAI API |
+| Programming | Python, SQL, JavaScript |
+| Data | PostgreSQL, SQL Server, Snowflake, pandas, NumPy |
+| Analytics | Power BI, Excel, Jupyter |
+| Development | Git, GitHub, Docker |
 
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
-</a>
+## How I approach projects
 
-</p>
+- Start with the business process and identify where automation is useful.
+- Use AI where interpretation is needed, and explicit rules where the outcome should be predictable.
+- Design validation, approval and failure handling alongside the main workflow.
+- Document setup, limitations and operating requirements so others can maintain the system.
 
+## Let's work together
 
+I'm open to **AI automation and integration roles**, as well as **freelance projects and consulting engagements** through bitNode Solutions.
 
----
+If you're building a workflow that needs AI, APIs or dependable data processing, I'd be happy to discuss the problem and the systems involved.
 
-## 🚀 Featured Projects
+**Email:** [rajawahaj.work@gmail.com](mailto:rajawahaj.work@gmail.com)  
+**Company:** [bitNode Solutions](https://www.bitnodesolutions.com)
 
-- 📈 **Sales Dashboard in Power BI**
-- 🧹 **Data Cleaning & EDA with Pandas**
-- 🗃️ **SQL Data Warehouse Project**
-- ❄️ **Snowflake ELT Pipeline**
-- 🤖 **Generative AI Data Assistant**
-
----
-
-## 🧠 Currently Learning
-
-- Advanced Data Engineering Patterns
-- dbt & Modern Data Stack
-- PySpark, Azure
-
----
-
-## ⚡ Fun Fact
-
-> “Without data, you're just another person with an opinion.”
+<p align="center"><sub>Build. Integrate. Automate.</sub></p>
